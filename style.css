@@ -1,0 +1,15 @@
+body{background-color: black;}
+#image{border: 5px solid wheat; 
+    height: 400px; 
+    width: 600px; 
+    margin-top: 100px;
+    margin-left: 620px;}
+    
+h1{font-family:Libre Baskerville;
+    color: white;
+    font-size: 40px; 
+    text-align: center;}
+
+h3{color: white; 
+    font-size: 15px; 
+    text-align: center;} 
